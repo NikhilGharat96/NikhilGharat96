@@ -3,7 +3,7 @@
 <h3>💫About Me</h3>
 <br>Hi! I'm Nikhil Gharat<br>
          Cloud & DevOps Engineer.<br>
-         nikhilgharat1718@gmail.com
+nikhilgharat1718@gmail.com
 
 
 <h2><b>🚀 Skills and Technologies </b></h2>
@@ -18,4 +18,3 @@
 
 <h3>🌐 Connect with Me :</h3>
 LinkedIn: https://www.linkedin.com/in/nikhil-gharat-16b889277/ <br>
-Email : nikhilgharat1718@gmail.com
