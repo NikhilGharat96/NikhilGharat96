@@ -42,4 +42,9 @@ Hi there! 👋 Welcome to My GitHub Profile 💫
 <br>
 
 <h3>🌐 Connect with Me :</h3>
-LinkedIn: https://www.linkedin.com/in/nikhil-gharat-16b889277/ <br>
+    <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://www.linkedin.com/in/nikhil-gharat-16b889277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" style="height: 30px; width: auto;" />
+  </a>
+</div>
+
