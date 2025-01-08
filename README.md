@@ -1,11 +1,10 @@
-<h1>✨Hi there! 👋 Welcome to My GitHub Profile 💫</h1>
+<h1>💫About Me</h1>
+Hi there! 👋 Welcome to My GitHub Profile 💫
 
-<h3>💫About Me</h3>
 <br>Hi! I'm Nikhil Gharat<br>
          Cloud & DevOps Engineer.<br>
          nikhilgharat1718@gmail.com
-
-
+<br>
 <h2><b>🚀 Skills and Technologies </b></h2>
   
 ### **AWS Services**
