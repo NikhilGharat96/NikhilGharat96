@@ -3,7 +3,7 @@ Hi there! 👋 Welcome to My GitHub Profile 💫
 
 <br>Hi! I'm Nikhil Gharat<br>
          Cloud & DevOps Engineer.<br>
-         nikhilgharat1718@gmail.com
+        📧nikhilgharat1718@gmail.com
 <br>
 <h2><b>🚀 Skills and Technologies </b></h2>
   
