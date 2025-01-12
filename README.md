@@ -23,7 +23,7 @@ Hi there! 👋 Welcome to My GitHub Profile 💫
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=plastic&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF5A5F?style=plastic&logo=sublime-text&logoColor=white)
 
 ### **DevOps Tools**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) <br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white)
 
 
 
