@@ -23,21 +23,8 @@ Hi there! 👋 Welcome to My GitHub Profile 💫
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=plastic&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF5A5F?style=plastic&logo=sublime-text&logoColor=white)
 
 ### **DevOps Tools**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) <br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) <br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) <br>![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=plastic&logo=ansible&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=plastic&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=plastic&logo=ansible&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=plastic&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-%2332A92F.svg?style=plastic&logo=circleci&logoColor=white) ![New Relic](https://img.shields.io/badge/New_Relic-%2300CEFF.svg?style=plastic&logo=new-relic&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-%2347A4E3.svg?style=plastic&logo=datadog&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=plastic&logo=sonarqube&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=plastic&logo=apache-maven&logoColor=white) ![Nagios](https://img.shields.io/badge/Nagios-%23000000.svg?style=plastic&logo=nagios&logoColor=white) -->
 
 <br>
 
