@@ -1,9 +1,10 @@
-<h1>💫About Me</h1>
+<h1>💫About Me</h1><img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 Hi there! 👋 Welcome to My GitHub Profile 💫
 
 <br>Hi! I'm Nikhil Gharat<br>
          Cloud & DevOps Engineer.<br>
         📧nikhilgharat1718@gmail.com
+<br>
 <br>
 <h2><b>🚀 Skills and Technologies </b></h2>
   
